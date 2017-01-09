@@ -1,2 +1,2 @@
 # Text-analyzer
-Analyzes text to compare to two other texts to see which the first text is most similar to 
+Analyzes a text sample to compare to two other texts to see which text the first text is most similar to. The algorithm to figure out how similar a piece of text is to another piece of text uses word lengths, sentence lengths, word stems and rare words(words that occur infrequently). One goal was to see that JK Rowling was writing under a pen name.  For example, is an essay I wrote more similar to JK Rowling's Harry Potter or Shakespeare's plays. 
